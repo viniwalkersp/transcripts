@@ -4021,7 +4021,6 @@ antecipacao
 antiquario
 antibiotico
 antigenico
-antihigienico
 antisseptico
 antitese
 antologico
@@ -30478,7 +30477,6 @@ salvarem 273
 ofereci-lhe 273
 minorias 273
 reformar-me 273
-nocturnas 273
 br 273
 falou-lhe 273
 foca-te 273
@@ -48974,7 +48972,6 @@ witch 112
 zeloso 112
 armem 112
 divulgados 112
-stradivarius 112
 bem-educado 112
 demissões 112
 imaginável 112
@@ -52443,7 +52440,6 @@ suméria 98
 sussurrando 98
 subscrição 98
 maternais 98
-martinelli 98
 irritei 98
 cheirado 98
 estragasse 98
