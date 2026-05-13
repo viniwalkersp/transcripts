@@ -3065,7 +3065,6 @@ alcofa
 alcofar
 abacaxizeiro
 abracadabrante
-aceleradissimo
 acorrentador
 acreditavel
 adivinhacao
@@ -52993,7 +52992,6 @@ bison 96
 alugueres 96
 clan 96
 multiplicar-se 96
-botticelli 96
 adiamos 96
 subestimem 96
 super-heroína 96
